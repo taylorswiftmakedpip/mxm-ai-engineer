@@ -1,0 +1,7 @@
+# Версии из сохранённого pip list в mod_1/les_8/lesson_8.ipynb.
+numpy==2.5.4
+pandas==3.1.0
+matplotlib==3.11.2
+ipykernel==7.4.0
+jupyterlab==4.6.5
+ipywidgets==8.1.9

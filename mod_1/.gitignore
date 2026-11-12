@@ -1,0 +1,5 @@
+.venv/
+.venv.backup-*/
+start/setup.log
+__pycache__/
+.ipynb_checkpoints/
